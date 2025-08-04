@@ -2,3 +2,7 @@ nome: Thiago
 sobrenome: Gomes Vieira
 cpf:1234567890
 Filme: Velozes e furiosos 2
+Cor preferida: Azul
+Data de nascimento: 21/02
+Cor de pele:Pardo
+Idade:75
